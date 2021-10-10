@@ -1,0 +1,17 @@
+.container {
+    background-color: #666;
+}
+
+.col {
+    height: 50px;
+    border: 1px dashed tomato;
+}
+
+.impar {
+    background-color: blue;
+}
+
+.par {
+    background-color: lightblue;
+}
+

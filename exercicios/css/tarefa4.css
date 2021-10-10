@@ -1,0 +1,23 @@
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: brown !important; 
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light a.nav-link{
+    color: #e7e7e7;
+    font-size: 1.3rem;
+}
+
+ul.navbar-nav li.nav-item a.nav-link {
+    padding-right: 1.5rem;
+}
+
+.card {
+    border: unset;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, .125);
+    /* padding: 0; */
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}

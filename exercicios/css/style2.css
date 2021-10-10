@@ -1,0 +1,36 @@
+.col-12 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    margin: 15px;
+}
+
+.col-12 i {
+    margin-right: 15px; 
+    font-size: 30px;;
+}
+
+.chatbot {
+    border: 1px solid lightblue;
+}
+
+.chatbot i {
+    color: lightblue;
+}
+
+.share {
+    border: 1px solid lightgreen;
+}
+
+.share i {
+    color: lightgreen;
+}
+
+.stars {
+    border: 1px solid goldenrod;
+}
+
+.stars i {
+    color: goldenrod;
+}
